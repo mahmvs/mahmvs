@@ -21,7 +21,6 @@
 - 🌦️ [App de Clima](https://github.com/seuusuario/clima-app) - Projeto de consulta de clima em tempo real.
 - 💻 [Portfólio Retrô - Windows XP](https://github.com/seuusuario/portfolio-windows-xp) - Portfólio pessoal com visual nostálgico inspirado no Windows XP.
 
-(Substitua "seuusuario" pelo seu nome de usuário do GitHub quando criar os repositórios 😉)
 
 ---
 
