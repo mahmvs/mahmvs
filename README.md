@@ -14,6 +14,13 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![SASS](https://img.shields.io/badge/sass-%23CC6699.svg?style=flat&logo=sass&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)
+![Nuxt.js](https://img.shields.io/badge/nuxt.js-00DC82?style=flat&logo=nuxtdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-4EA94B?style=flat&logo=mongodb&logoColor=white)
+
+
 
 ---
 
