@@ -25,7 +25,8 @@
 ---
 
 ## ⭐ Projetos em destaque:
-- 🌦️ [App de Clima](https://github.com/seuusuario/clima-app) - Projeto de consulta de clima em tempo real.
+- 🌦️ [Bot de Clima](https://github.com/mahmvs/weatherbot) - Projeto pessoal de criação de bot de clima para o Discord.
+- 💻 [Finanças pessoais](https://github.com/mahmvs/personalFinance) - Projeto pessoal de criação de uma app para organização de finanças pessoais
 - 💻 [Portfólio Retrô - Windows XP](https://github.com/seuusuario/portfolio-windows-xp) - Portfólio pessoal com visual nostálgico inspirado no Windows XP.
 
 
