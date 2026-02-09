@@ -1,8 +1,8 @@
 # Olá! Eu sou a Maiara 👋
 
-💻 Estudante de Front-end na Mate Academy  
+
 🚀 Apaixonada por criar interfaces incríveis e transformar ideias em projetos reais  
-🎯 Buscando uma oportunidade de estágio como Front-end Developer  
+👩‍💻 Desenvolvedora Front-end | 🌈 Apaixonada por Design | 🌱 Em constante evolução
 
 ---
 
